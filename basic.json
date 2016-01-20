@@ -124,7 +124,7 @@
         }
       },
       "put": {
-        "summary": "Update User Details User edit profile (Required : FirstName, LastName, Gender, Phone, Birthday, RelationshipStatus) (Date Format : dd-mm-yyyy)",
+        "summary": "Update User Details",
         "tags": [
           "Auth"
         ],
